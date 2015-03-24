@@ -1,4 +1,25 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Laura Whalin - sproutnet</title><description>programming, ag tech, automation</description><link>http://localhost:2368/</link><generator>Ghost 0.5</generator><lastBuildDate>Mon, 23 Mar 2015 08:31:11 GMT</lastBuildDate><atom:link href="http://localhost:2368/author/laura/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title>Food + Tech = &lt;3</title><description>&lt;p&gt;Over a year ago, in between working full time and being a new mom, I listened to an audio book called The Vertical Farm: Feeding the World in the 21st Century, by Dickson Despommier. To date, this book has been the culmination of my growing obsession with food--namely where it comes from, how it is processed (or not), and how nutritious it is for my family.&lt;/p&gt;
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Laura Whalin - sproutnet</title><description>programming, ag tech, automation</description><link>http://localhost:2368/</link><generator>Ghost 0.5</generator><lastBuildDate>Tue, 24 Mar 2015 22:26:53 GMT</lastBuildDate><atom:link href="http://localhost:2368/author/laura/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title>Hello Arduino World</title><description>&lt;p&gt;Before today, I didn't really know what an Arduino was. It sounded like an Italian shoe designer. I'd even had a friend mention Arduinos to me, and since I'm in school to be a developer, I pretended like I knew what he was talking about. &lt;/p&gt;
+
+&lt;p&gt;Well now I'm in the know, and they are so exciting! I did the requisite blinking-light program, but quick results have a way of making you feel passionate about a new experience early on.&lt;/p&gt;
+
+&lt;p&gt;Imagine the blinking. Hello World:  &lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;def blink(led)  
+  led.send(:on)
+  sleep 0.1
+  led.send(:off)
+  sleep 0.1
+end  
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Watch out, world-blinking domination is just around the corner!&lt;/p&gt;
+
+&lt;p&gt;What is the most amazing part of today is that this is one of those cases where the right path opens itself up in front of you. For a couple of months now, I've been interested in indoor gardening systems, and especially how technology can improve them. Arduino and its cousin, Raspberry Pi, are the solutions. I'm going to ask for a Raspberry Pi for Christmas. I'm going to start automating everything in my house. I'm going to help push these technologies further. &lt;/p&gt;
+
+&lt;p&gt;Here's a project that looks like a good start. I have a lemon tree I can try it out on. &lt;a href="http://spin.atomicobject.com/2014/06/28/raspberry-pi-gardening/"&gt;http://spin.atomicobject.com/2014/06/28/raspberry-pi-gardening/&lt;/a&gt; &lt;br&gt;
+For indoor gardening, I'm probably not going to hook up a hose. I might have a tank set up, and I'd probably want to send an email when the water level is getting too low. My mind is spinning with the possibilities of building out this project. I'm thinking of streaming data maps, and eventually adding remote user controls. &lt;/p&gt;
+
+&lt;p&gt;Everyone has to start somewhere, and this is it for me.&lt;/p&gt;</description><link>http://localhost:2368/arduino-love/</link><guid isPermaLink="false">80123a10-691e-45a3-a2bb-25ab0fb764df</guid><dc:creator>Laura Whalin</dc:creator><pubDate>Sat, 13 Dec 2014 00:09:00 GMT</pubDate></item><item><title>Food + Tech = &lt;3</title><description>&lt;p&gt;Over a year ago, in between working full time and being a new mom, I listened to an audio book called The Vertical Farm: Feeding the World in the 21st Century, by Dickson Despommier. To date, this book has been the culmination of my growing obsession with food--namely where it comes from, how it is processed (or not), and how nutritious it is for my family.&lt;/p&gt;
 
 &lt;p&gt;I began learning more about indoor and small-space gardening. I learned about the sustainability of our current food systems. I began imagining which walls I would line with my vertical gardens, I watched video after video about how to start your own hydroponic, aquaponic, or aeroponic growing system. I was inspired by the innovation I was seeing, and even more by the changes I knew could come about.&lt;/p&gt;
 
